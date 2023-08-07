@@ -9,7 +9,7 @@ lang: es-ES
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Santiago
 
-title: # the main title
+title: " "  # the main title
 
 github:
   username: melvincolmenares # change to your github username
