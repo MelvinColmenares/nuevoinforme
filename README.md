@@ -1,6 +1,4 @@
 <style>
-mark{
-    
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -14,11 +12,9 @@ mark{
   width: 100%;
   height: 100%;
 }
-    
-}
 </style>
 
-# InformePowerBI PRUEBA 5
+# InformePowerBI PRUEBA 6
 Prueba de Repositorio para Informe Power BI
 
 ### Hello World !      :earth_americas: :earth_africa: :earth_asia:
